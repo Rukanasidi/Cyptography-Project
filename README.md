@@ -1,7 +1,7 @@
 # Datastructure-Project
 School project code submissions
 
-# 🔁 Data Structures and Recursion in C++
+# Data Structures and Recursion in C++
 
 This project consists of two parts implemented in **C++**:
 
@@ -12,7 +12,7 @@ Each section focuses on fundamental programming concepts such as pointers, memor
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 ### Question 1: Custom Singly Linked List
 
@@ -37,15 +37,15 @@ Each recursive function includes:
 
 ---
 
-## 🧠 Features
+##  Features
 
-### ✅ Linked List
+###  Linked List
 - Insert at head, middle, and tail
 - Delete by value or index
 - Traverse and display list
 - Error handling (e.g. empty list deletion)
 
-### 🔁 Recursion
+###  Recursion
 - Factorial function
 - Fibonacci sequence generator
 - String reversal
@@ -53,14 +53,14 @@ Each recursive function includes:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Language: C++
 - Compiler: Any C++11+ compatible compiler (e.g. `g++`, MSVC)
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. **Clone or download** this project.
 2. Compile with g++ (or your preferred compiler):
