@@ -1,4 +1,4 @@
-# Datastructure-Project
+# Cryptography-Project
 School project code submissions
 
 # Data Structures and Recursion in C++
