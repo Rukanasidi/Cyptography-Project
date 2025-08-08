@@ -4,6 +4,12 @@
 #- Generate random initialization vector (IV) for CBC mode
 #- Handle Key storage/management
 
+# Please note: This code requires the 'cryptography' library.
+# You can install it using pip: "pip install cryptography"
+# Alternatively, you can use the requirements.txt file provided in the project.
+# to use the requiremnt file, run the command: "pip install -r requirements.txt"
+
+
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 import os
 
